@@ -129,14 +129,8 @@ The goal is to bridge research-grade AI with production-ready intelligent system
 
 ---
 
-## Connect
-
-- GitHub: [DrKiloDeltaPapa](https://github.com/DrKiloDeltaPapa)
-
----
-
 **Engineering intelligence from data, deploying insight into reality.**
-o
+
 ---
 
 ## Visitor Count
