@@ -103,8 +103,6 @@ The goal is to bridge research-grade AI with production-ready intelligent system
 
 ## GitHub Analytics
 
-## GitHub Analytics
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DrKiloDeltaPapa&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DrKiloDeltaPapa&layout=compact&theme=tokyonight)
