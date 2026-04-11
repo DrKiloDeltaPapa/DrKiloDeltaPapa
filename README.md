@@ -103,22 +103,18 @@ The goal is to bridge research-grade AI with production-ready intelligent system
 
 ## GitHub Analytics
 
-### Metrics Overview
-![Metrics](./github-metrics.svg)
+<p align="center">
+  <img src="./github-metrics.svg" width="90%" />
+</p>
 
-### Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=DrKiloDeltaPapa&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DrKiloDeltaPapa&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DrKiloDeltaPapa&theme=tokyo-night" height="180em"/>
+</p>
 
-### Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DrKiloDeltaPapa&theme=tokyo-night)
-
-### Contribution Calendar
-![Contribution Calendar](https://ghchart.rshah.org/DrKiloDeltaPapa)
----
-
-## Metrics Dashboard
-
-![Metrics](./github-metrics.svg)
+<p align="center">
+  <img src="https://ghchart.rshah.org/DrKiloDeltaPapa" width="90%" />
+</p>
 
 ---
 
