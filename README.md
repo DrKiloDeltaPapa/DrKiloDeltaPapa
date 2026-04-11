@@ -1,3 +1,12 @@
+<h1 align="center">Dr. Kareem Piper</h1>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00FFAA&center=true&vCenter=true&width=800&lines=AI+Researcher;Machine+Learning+Engineer;Agentic+AI+Systems;Retrieval+Augmented+Generation;Healthcare+%7C+Education+AI;Building+DataPraxisAI" />
+</p>
+
+
+
+
 # Dr. Kareem Piper
 
 ```text
