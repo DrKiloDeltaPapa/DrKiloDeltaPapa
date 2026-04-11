@@ -103,18 +103,17 @@ The goal is to bridge research-grade AI with production-ready intelligent system
 
 ## GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DrKiloDeltaPapa&show_icons=true&theme=tokyonight)
+### Metrics Overview
+![Metrics](./github-metrics.svg)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DrKiloDeltaPapa&layout=compact&theme=tokyonight)
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=DrKiloDeltaPapa&theme=tokyonight&no-frame=true)
-
+### Streak Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=DrKiloDeltaPapa&theme=tokyonight)
 
+### Activity Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DrKiloDeltaPapa&theme=tokyo-night)
 
+### Contribution Calendar
 ![Contribution Calendar](https://ghchart.rshah.org/DrKiloDeltaPapa)
-
 ---
 
 ## Metrics Dashboard
