@@ -200,3 +200,7 @@ Vector Database | Agentic AI | Full Stack ML | Observability
 ![GitHub](https://img.shields.io/badge/GitHub-DrKiloDeltaPapa-black?style=for-the-badge&logo=github)
 ![AI Research](https://img.shields.io/badge/Focus-AI_Research-black?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Domain-Machine_Learning-black?style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dr.%20Kareem%20Piper-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dr-kareem-david-piper-297bb971)
+
+- LinkedIn: https://www.linkedin.com/in/dr-kareem-david-piper-297bb971
+- GitHub: https://github.com/DrKiloDeltaPapa
