@@ -49,6 +49,16 @@ PyTorch | Scikit-Learn | FastAPI | React | Vite | FAISS | Docker | Git | Linux |
 Machine Learning | Deep Learning | NLP | RAG | MLOps | Data Science | Research Analytics
 
 ---
+<p align="center">
+
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
+![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker)
+![FAISS](https://img.shields.io/badge/FAISS-000000?style=for-the-badge)
+
+</p>
 
 ## Featured Work
 
@@ -62,6 +72,9 @@ Research and development in classification, academic success prediction, and int
 Hands-on experimentation with CNN architectures, model tuning, and evaluation across image-based tasks.
 
 ---
+## Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DrKiloDeltaPapa&theme=tokyo-night)
 
 ## GitHub Stats
 
@@ -73,3 +86,8 @@ Hands-on experimentation with CNN architectures, model tuning, and evaluation ac
 
 - GitHub: [DrKiloDeltaPapa](https://github.com/DrKiloDeltaPapa)  
 - Research and project portfolio in progress
+---
+
+<p align="center">
+"Engineering intelligence from data, deploying insight into reality."
+</p>
