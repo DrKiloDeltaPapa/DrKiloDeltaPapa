@@ -1,17 +1,23 @@
-<h1 align="center">Dr. Kareem Piper</h1>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00FFAA&center=true&vCenter=true&width=800&lines=AI+Researcher;Machine+Learning+Engineer;Agentic+AI+Systems;Retrieval+Augmented+Generation;Healthcare+%7C+Education+AI;Building+DataPraxisAI" />
-</p>
-
-
-
-
 # Dr. Kareem Piper
 
-```text
-AI Researcher | Machine Learning Engineer | Applied Data Scientist
-Building intelligent systems across education, healthcare, and agentic AI workflows
+**AI Researcher • Machine Learning Engineer • Applied Data Scientist**
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00FFAA&center=true&vCenter=true&width=900&lines=Agentic+AI+Systems;Retrieval+Augmented+Generation;Machine+Learning+%7C+Deep+Learning;Healthcare+%26+Education+AI;Building+DataPraxisAI)
+
+---
+
+## whoami
+
+```bash
+name: Dr. Kareem Piper
+role: AI Researcher / Machine Learning Engineer
+focus: Agentic AI, RAG, ML, DL, Computer Vision
+domains: Healthcare, Education, Applied Analytics
+system: Borg1 / Ubuntu
+mission: Build intelligent systems that bridge academic rigor and production deployment
+```
+
+---
 
 ## About Me
 
@@ -19,12 +25,46 @@ I am an AI researcher and machine learning practitioner with a background in dat
 
 I am especially interested in:
 
-- Agentic AI systems
-- Retrieval-Augmented Generation (RAG)
-- Machine Learning and Deep Learning
-- Computer Vision
-- AI for healthcare and education
-- Secure and scalable model deployment
+- Agentic AI systems  
+- Retrieval-Augmented Generation (RAG)  
+- Machine Learning and Deep Learning  
+- Computer Vision  
+- AI for healthcare and education  
+- Secure and scalable model deployment  
+
+---
+
+## AI Research Areas
+
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-black?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-black?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-black?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-black?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-black?style=for-the-badge)
+![MLOps](https://img.shields.io/badge/MLOps-black?style=for-the-badge)
+
+---
+
+## Tech Stack
+
+### Languages
+Python | R | SQL | JavaScript | Bash  
+
+### Frameworks and Tools
+PyTorch | Scikit-Learn | FastAPI | React | Vite | FAISS | Docker | Git | Linux | MLflow  
+
+### Domains
+Machine Learning | Deep Learning | NLP | RAG | MLOps | Data Science | Research Analytics  
+
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
+![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react)
+![Vite](https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite)
+![FAISS](https://img.shields.io/badge/FAISS-000000?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
+![MLflow](https://img.shields.io/badge/MLflow-000000?style=for-the-badge)
 
 ---
 
@@ -37,57 +77,55 @@ I am especially interested in:
 
 ---
 
-## Tech Stack
+## Featured Project — DataPraxisAI
 
-### Languages
-Python | R | SQL | JavaScript | Bash
+**DataPraxisAI** is an end-to-end AI platform integrating:
 
-### Frameworks and Tools
-PyTorch | Scikit-Learn | FastAPI | React | Vite | FAISS | Docker | Git | Linux | MLflow
+- Retrieval-Augmented Generation  
+- Vector databases  
+- Machine learning pipelines  
+- Agentic AI workflows  
+- Full-stack deployment architecture  
 
-### Domains
-Machine Learning | Deep Learning | NLP | RAG | MLOps | Data Science | Research Analytics
-
----
-<p align="center">
-
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
-![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch)
-![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi)
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react)
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker)
-![FAISS](https://img.shields.io/badge/FAISS-000000?style=for-the-badge)
-
-</p>
-
-## Featured Work
-
-### DataPraxisAI
-An end-to-end AI platform integrating data pipelines, vector search, retrieval-augmented generation, and full-stack application design.
-
-### Applied Predictive Modeling
-Research and development in classification, academic success prediction, and interpretable machine learning pipelines.
-
-### Computer Vision and Neural Networks
-Hands-on experimentation with CNN architectures, model tuning, and evaluation across image-based tasks.
+The goal is to bridge research-grade AI with production-ready intelligent systems.
 
 ---
-## Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DrKiloDeltaPapa&theme=tokyo-night)
+## Academic and Research
 
-## GitHub Stats
+- Doctorate in Curriculum, Instruction, and Assessment  
+- Applied quantitative research  
+- Predictive analytics  
+- Machine learning evaluation frameworks  
+- AI system design research  
+
+---
+
+## GitHub Analytics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DrKiloDeltaPapa&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrKiloDeltaPapa&layout=compact&theme=tokyonight)
+
+---
+
+## Metrics Dashboard
+
+![Metrics](./github-metrics.svg)
+
+---
+
+## Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/DrKiloDeltaPapa/DrKiloDeltaPapa/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
 ## Connect
 
-- GitHub: [DrKiloDeltaPapa](https://github.com/DrKiloDeltaPapa)  
-- Research and project portfolio in progress
+- GitHub: [DrKiloDeltaPapa](https://github.com/DrKiloDeltaPapa)
+
 ---
 
-<p align="center">
-"Engineering intelligence from data, deploying insight into reality."
-</p>
+**Engineering intelligence from data, deploying insight into reality.**
+o
