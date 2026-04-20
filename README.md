@@ -89,6 +89,9 @@ Vector Database | Agentic AI | Full Stack ML | Observability
 
 ### 📊 [Data Science Python](https://github.com/DrKiloDeltaPapa/Data-Science-Python)
 
+```
+Applied Machine Learning | Data Analysis | Model Development
+```
 
 - End-to-end data science workflows  
 - Feature engineering and preprocessing  
