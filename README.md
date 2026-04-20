@@ -87,6 +87,17 @@ Vector Database | Agentic AI | Full Stack ML | Observability
 
 ---
 
+### 📊 [Data Science Python](https://github.com/DrKiloDeltaPapa/Data-Science-Python)
+
+
+- End-to-end data science workflows  
+- Feature engineering and preprocessing  
+- Model training, evaluation, and tuning  
+- Practical implementations of ML algorithms  
+- Exploratory data analysis (EDA) and visualization  
+
+---
+
 ## Academic and Research
 
 - Doctorate in Curriculum, Instruction, and Assessment  
