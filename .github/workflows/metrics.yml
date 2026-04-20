@@ -24,4 +24,4 @@ jobs:
           plugin_languages_limit: 8
           plugin_isocalendar: yes
           plugin_topics: yes
-          plugin_stars: yes
+

@@ -97,6 +97,13 @@ Vector Database | Agentic AI | Full Stack ML | Observability
 
 ---
 
+## ⭐ Recently Starred Repositories
+
+<!-- STARRED_REPOS_START -->
+<!-- STARRED_REPOS_END -->
+
+---
+
 ## GitHub Analytics
 
 <p align="center">
