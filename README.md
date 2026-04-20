@@ -70,7 +70,7 @@ PyTorch | Scikit-Learn | FastAPI | React | Vite | FAISS | Docker | Git | Linux |
 
 ---
 
-## Featured Project
+## Featured Projects
 
 ### 🚀 [DataPraxisAI](https://github.com/DrKiloDeltaPapa/DataPraxisAI)
 
