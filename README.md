@@ -104,6 +104,12 @@ Vector Database | Agentic AI | Full Stack ML | Observability
 </p>
 
 <p align="center">
+  <a href="https://github.com/DrKiloDeltaPapa?tab=stars">⭐ Recently Starred Repositories</a> &nbsp;•&nbsp;
+  <a href="https://github.com/DrKiloDeltaPapa?tab=repositories">📦 All Repositories</a> &nbsp;•&nbsp;
+  <a href="https://github.com/DrKiloDeltaPapa?tab=overview">🔱 Contribution Overview</a>
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=DrKiloDeltaPapa&theme=tokyonight" height="180em"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DrKiloDeltaPapa&theme=tokyo-night" height="180em"/>
 </p>
